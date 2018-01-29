@@ -5,7 +5,7 @@ module.exports = {
     entry:[
         "babel-polyfill",
         "react-hot-loader/patch",
-        __dirname+"/app/index.js"
+        __dirname+"/app2/index.js"
     ],
     output:{
         path:__dirname+"/static",
